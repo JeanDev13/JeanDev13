@@ -98,28 +98,6 @@ Novos projetos estão sendo construídos e serão adicionados aqui conforme fore
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanDev13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanDev13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanDev13&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
