@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=200&section=header&text=Jean%20Xavier&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas%20%7C%20Ciência%20da%20Computação&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas+em+formação;Estudante+de+Ciência+da+Computação;Construindo+projetos+e+evoluindo+todos+os+dias;Transformando+ideias+em+código." alt="Typing SVG" />
-</a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas+em+formação;Estudante+de+Ciência+da+Computação;Construindo+projetos+e+evoluindo+todos+os+dias;Transformando+ideias+em+código." />
+
+</div>
 
 </div>
 
