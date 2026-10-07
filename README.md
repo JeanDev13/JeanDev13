@@ -74,11 +74,11 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 <td width="50%" valign="top">
 
-### 📌 Projeto #02
+**Estoque para empresa de gás**
 
 **Em desenvolvimento**
 
-`Python`
+`PHP` `MySQL`
 
 🟡 Em construção
 
@@ -92,7 +92,7 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 **Em desenvolvimento**
 
-`C`
+`Python`
 
 🟡 Em construção
 
