@@ -88,11 +88,11 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 <tr>
 <td width="50%" valign="top">
 
-### 📌 Projeto #03
+**Sistema de Ordem de Serviço**
 
 **Em desenvolvimento**
 
-`Python`
+`PHP` `JavaScript` `MySQL`
 
 🟡 Em construção
 
