@@ -1,20 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=200&section=header&text=Jean%20Xavier&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas%20%7C%20Ciência%20da%20Computação&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=200&section=header&text=Jean%20Xavier&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas%20%7C%20Ciência%20da%20Computação&descAlignY=55&descSize=18" width="100%">
 
-<div align="center">
+<br>
+
+### 👨‍💻 Desenvolvedor de Sistemas em formação
+
+**Ciência da Computação • Desenvolvimento Web • Sistemas**
+
+<br>
+
+<a href="https://github.com/JeanDev13">
+<img src="https://img.shields.io/badge/GitHub-JeanDev13-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/jeanxavier-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Jean%20Xavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** e desenvolvedor de sistemas em formação, interessado principalmente em **desenvolvimento web, sistemas e bancos de dados**.
+Sou estudante de **Ciência da Computação** e desenvolvedor de sistemas em formação.
 
-Atualmente estou aprofundando meus conhecimentos em **PHP, MySQL, C e Python**, enquanto desenvolvo projetos acadêmicos e pessoais para colocar em prática o que estou aprendendo.
+Tenho interesse principalmente em **desenvolvimento web, sistemas e bancos de dados**, buscando transformar o conhecimento adquirido nos estudos em projetos reais.
 
-Meu objetivo é evoluir constantemente como desenvolvedor e transformar conhecimento em **projetos reais e soluções úteis**.
+Atualmente estou aprofundando meus conhecimentos em **PHP, MySQL, C e Python**, além de trabalhar constantemente com Git e GitHub.
+
+Meu objetivo é evoluir como desenvolvedor através da criação de projetos, resolução de problemas e aprendizado contínuo.
 
 ---
 
@@ -22,13 +38,15 @@ Meu objetivo é evoluir constantemente como desenvolvedor e transformar conhecim
 
 <div align="center">
 
-### Linguagens & Desenvolvimento
+### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=php,python,c,html,css" />
+<img src="https://skillicons.dev/icons?i=php,python,c,html,css">
 
-### Banco de Dados & Ferramentas
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+### 🗄️ Banco de Dados & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode">
 
 </div>
 
@@ -36,90 +54,110 @@ Meu objetivo é evoluir constantemente como desenvolvedor e transformar conhecim
 
 ## 🚀 Projetos
 
+Atualmente estou desenvolvendo novos projetos para colocar em prática meus conhecimentos e construir meu portfólio.
+
+### 🔨 Projetos em construção
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 Sistema de Loja
+### 📌 Projeto #01
 
-Sistema CRUD desenvolvido com **PHP + MySQL**, com funcionalidades para:
+**Em desenvolvimento**
 
-* Cadastro de produtos
-* Edição
-* Exclusão
-* Visualização
-* Controle de quantidade
-* Categorias
+`PHP` `MySQL`
 
-**Tecnologias:** PHP · MySQL · PDO · HTML · CSS
+🟡 Em construção
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 WeBra
+### 📌 Projeto #02
 
-Projeto voltado para desenvolvimento de **sites e soluções web**.
+**Em desenvolvimento**
 
-O projeto envolve criação de páginas, desenvolvimento de interfaces e construção de soluções personalizadas para diferentes necessidades.
+`Python`
 
-**Tecnologias:** HTML · CSS · PHP · MySQL · Git
+🟡 Em construção
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Projetos Acadêmicos
+### 📌 Projeto #03
 
-Projetos desenvolvidos durante minha graduação em Ciência da Computação.
+**Em desenvolvimento**
 
-Entre eles:
+`C`
 
-* Programação em C
-* Python
-* Programação Orientada a Objetos
-* Algoritmos
-* Estruturas de dados
-* Lógica de programação
+🟡 Em construção
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔨 Em desenvolvimento...
+### 📌 Próximo projeto
 
-Novos projetos estão sendo construídos e serão adicionados aqui conforme forem finalizados.
+Novos projetos serão adicionados conforme forem desenvolvidos.
+
+🔵 Em breve
 
 </td>
 </tr>
 </table>
 
+> Esta seção será atualizada conforme novos projetos forem concluídos.
+
 ---
 
-## 📫 Contato
+## 📚 Atualmente estudando
 
 <div align="center">
 
-<a href="https://linkedin.com/in/jeanxavier-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+`PHP` • `MySQL` • `C` • `Python` • `POO` • `Git` • `GitHub`
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/JeanDev13">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeanDev13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170">
+
 </a>
 
 <a href="https://github.com/JeanDev13">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanDev13&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
 </a>
 
 </div>
 
 ---
 
+## 📈 Minha evolução
+
 <div align="center">
 
-### 💡 Code. Learn. Build. Repeat.
-
-<img src="https://komarev.com/ghpvc/?username=JeanDev13&style=flat-square&color=2563EB&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=JeanDev13&style=for-the-badge&color=2563EB&label=VISITAS%20NO%20PERFIL">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+
+> **Code. Learn. Build. Repeat.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer" width="100%">
