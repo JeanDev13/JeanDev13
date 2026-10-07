@@ -62,13 +62,13 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 <tr>
 <td width="50%" valign="top">
 
-### 📌 Projeto #01
+**Biblioteca Online**
 
-**Em desenvolvimento**
+**Concluído**
 
 `PHP` `MySQL`
 
-🟡 Em construção
+🟢 Concluído
 
 </td>
 
