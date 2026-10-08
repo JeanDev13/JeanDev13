@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64"
+     fill="none">
+
+  <ellipse
+    cx="32"
+    cy="13"
+    rx="21"
+    ry="8"
+    stroke="#2563EB"
+    stroke-width="4"
+  />
+
+  <path
+    d="M11 13V32C11 36.4 20.4 40 32 40C43.6 40 53 36.4 53 32V13"
+    stroke="#2563EB"
+    stroke-width="4"
+  />
+
+  <path
+    d="M11 32V51C11 55.4 20.4 59 32 59C43.6 59 53 55.4 53 51V32"
+    stroke="#2563EB"
+    stroke-width="4"
+  />
+
+  <path
+    d="M19 23C22.5 25 27 26 32 26C37 26 41.5 25 45 23"
+    stroke="#2563EB"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+
+  <path
+    d="M19 42C22.5 44 27 45 32 45C37 45 41.5 44 45 42"
+    stroke="#2563EB"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+
+</svg>
