@@ -158,7 +158,10 @@ Em breve
 
 ---
 
-## 📊 GitHub
+<a href="https://github.com/JeanDev13">
+  <img src="./icons/github.svg" width="18" height="18" style="vertical-align: middle;">
+  GitHub
+</a>
 
 <div align="center">
 
