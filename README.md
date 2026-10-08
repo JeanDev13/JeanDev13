@@ -23,7 +23,7 @@
 ---
 
 <h2>
-  <img src="./icons/user.svg?v=2" width="20" style="vertical-align: -3px;">
+  <img src="./icons/user.svg?v=2" width="22" height="22" align="absmiddle">
   Sobre mim
 </h2>
 
@@ -38,18 +38,14 @@ Meu objetivo é evoluir como desenvolvedor através da criação de projetos, re
 ---
 
 <h2>
-  <img src="./icons/bolt.svg"
-       width="20"
-       style="vertical-align: -3px;">
+  <img src="./icons/bolt.svg" width="22" height="22" align="absmiddle">
   Tecnologias
 </h2>
 
 <div align="center">
 
 <h3>
-  <img src="./icons/code.svg"
-       width="18"
-       style="vertical-align: -3px;">
+  <img src="./icons/code.svg" width="18" height="18" align="absmiddle">
   Linguagens
 </h3>
 
@@ -58,9 +54,7 @@ Meu objetivo é evoluir como desenvolvedor através da criação de projetos, re
 <br><br>
 
 <h3>
-  <img src="./icons/database.svg"
-       width="18"
-       style="vertical-align: -3px;">
+  <img src="./icons/database.svg" width="18" height="18" align="absmiddle">
   Banco de Dados & Ferramentas
 </h3>
 
@@ -71,14 +65,14 @@ Meu objetivo é evoluir como desenvolvedor através da criação de projetos, re
 ---
 
 <h2>
-  <img src="./icons/rocket.svg" width="20" style="vertical-align: -3px;">
+  <img src="./icons/rocket.svg" width="22" height="22" align="absmiddle">
   Projetos
 </h2>
 
 Atualmente estou desenvolvendo novos projetos para colocar em prática meus conhecimentos e construir meu portfólio.
 
 <h3>
-  <img src="./icons/hammer.svg" width="18" style="vertical-align: -3px;">
+  <img src="./icons/hammer.svg" width="18" height="18" align="absmiddle">
   Projetos em construção
 </h3>
 
@@ -92,7 +86,7 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 `PHP` `MySQL`
 
-<img src="./icons/status-green.svg" width="10" style="vertical-align: -1px;">
+<img src="./icons/status-green.svg" width="10" height="10" align="absmiddle">
 Concluído
 
 </td>
@@ -105,9 +99,8 @@ Concluído
 
 `PHP` `MySQL`
 
-<img src="./icons/status-yellow.svg" width="10" style="vertical-align: -1px;">
+<img src="./icons/status-yellow.svg" width="10" height="10" align="absmiddle">
 Em desenvolvimento
-
 
 </td>
 </tr>
@@ -121,7 +114,7 @@ Em desenvolvimento
 
 `PHP` `JavaScript` `MySQL`
 
-<img src="./icons/status-yellow.svg" width="10" style="vertical-align: -1px;">
+<img src="./icons/status-yellow.svg" width="10" height="10" align="absmiddle">
 Em desenvolvimento
 
 </td>
@@ -132,7 +125,7 @@ Em desenvolvimento
 
 Novos projetos serão adicionados conforme forem desenvolvidos.
 
-<img src="./icons/status-blue.svg" width="10" style="vertical-align: -1px;">
+<img src="./icons/status-blue.svg" width="10" height="10" align="absmiddle">
 Em breve
 
 </td>
@@ -144,9 +137,7 @@ Em breve
 ---
 
 <h2>
-  <img src="./icons/book.svg"
-       width="20"
-       style="vertical-align: -3px;">
+  <img src="./icons/book.svg" width="22" height="22" align="absmiddle">
   Atualmente estudando
 </h2>
 
@@ -158,33 +149,25 @@ Em breve
 
 ---
 
-<a href="https://github.com/JeanDev13">
-  <img src="./icons/github.svg" width="18" height="18" style="vertical-align: middle;">
+<h2>
+  <img src="./icons/github.svg" width="22" height="22" align="absmiddle">
   GitHub
-</a>
+</h2>
 
 <div align="center">
 
-<a href="https://github.com/JeanDev13">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeanDev13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170">
-
-</a>
-
-<a href="https://github.com/JeanDev13">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanDev13&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanDev13/JeanDev13/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanDev13/JeanDev13/output/github-snake.svg">
+  <img alt="Gráfico de contribuições de JeanDev13" src="https://raw.githubusercontent.com/JeanDev13/JeanDev13/output/github-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
 ---
 
-## <h2>
-  <img src="./icons/chart.svg"
-       width="20"
-       style="vertical-align: -3px;">
+<h2>
+  <img src="./icons/chart.svg" width="22" height="22" align="absmiddle">
   Minha evolução
 </h2>
 
