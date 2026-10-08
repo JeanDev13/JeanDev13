@@ -22,7 +22,7 @@ jobs:
           # color_dots: exatamente 5 cores. A 1ª é "sem contribuição", depois vai do menos ao mais ativo.
           outputs: |
             dist/github-snake.svg?color_snake=#0F172A&color_dots=#EBEDF0,#BFDBFE,#93C5FD,#3B82F6,#1D4ED8
-            dist/github-snake-dark.svg?color_snake=#E2E8F0&color_dots=#161B22,#1E3A8A,#1D4ED8,#2563EB,#60A5FA
+            dist/github-snake-dark.svg?color_snake=#E2E8F0&color_dots=#161B22,#1E40AF,#2563EB,#60A5FA,#BFDBFE
 
       - name: Publicar na branch output
         env:
