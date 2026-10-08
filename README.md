@@ -92,7 +92,8 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 `PHP` `MySQL`
 
-<span style="color:#F59E0B;">●</span> Concluído
+<img src="./icons/status-green.svg" width="10" style="vertical-align: -1px;">
+Concluído
 
 </td>
 
@@ -104,7 +105,8 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 `PHP` `MySQL`
 
-<span style="color:#F59E0B;">●</span> Em desenvolvimento
+<img src="./icons/status-yellow.svg" width="10" style="vertical-align: -1px;">
+Em desenvolvimento
 
 
 </td>
@@ -119,7 +121,8 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 `PHP` `JavaScript` `MySQL`
 
-<span style="color:#F59E0B;">●</span> Em desenvolvimento
+<img src="./icons/status-yellow.svg" width="10" style="vertical-align: -1px;">
+Em desenvolvimento
 
 </td>
 
@@ -129,7 +132,8 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 Novos projetos serão adicionados conforme forem desenvolvidos.
 
-<span style="color:#2563EB;">●</span> Em breve
+<img src="./icons/status-blue.svg" width="10" style="vertical-align: -1px;">
+Em breve
 
 </td>
 </tr>
