@@ -4,7 +4,7 @@
 
 <br>
 
-### 👨‍💻 Desenvolvedor de Sistemas em formação
+### Desenvolvedor de Sistemas em formação
 
 **Ciência da Computação • Desenvolvimento Web • Sistemas**
 
@@ -37,17 +37,32 @@ Meu objetivo é evoluir como desenvolvedor através da criação de projetos, re
 
 ---
 
-## ⚡ Tecnologias
+<h2>
+  <img src="./icons/bolt.svg"
+       width="20"
+       style="vertical-align: -3px;">
+  Tecnologias
+</h2>
 
 <div align="center">
 
-### 💻 Linguagens
+<h3>
+  <img src="./icons/code.svg"
+       width="18"
+       style="vertical-align: -3px;">
+  Linguagens
+</h3>
 
 <img src="https://skillicons.dev/icons?i=php,python,c,html,css">
 
 <br><br>
 
-### 🗄️ Banco de Dados & Ferramentas
+<h3>
+  <img src="./icons/database.svg"
+       width="18"
+       style="vertical-align: -3px;">
+  Banco de Dados & Ferramentas
+</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode">
 
@@ -55,11 +70,17 @@ Meu objetivo é evoluir como desenvolvedor através da criação de projetos, re
 
 ---
 
-## 🚀 Projetos
+<h2>
+  <img src="./icons/rocket.svg" width="20" style="vertical-align: -3px;">
+  Projetos
+</h2>
 
 Atualmente estou desenvolvendo novos projetos para colocar em prática meus conhecimentos e construir meu portfólio.
 
-### 🔨 Projetos em construção
+<h3>
+  <img src="./icons/hammer.svg" width="18" style="vertical-align: -3px;">
+  Projetos em construção
+</h3>
 
 <table>
 <tr>
@@ -71,7 +92,7 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 `PHP` `MySQL`
 
-🟢 Concluído
+<span style="color:#F59E0B;">●</span> Concluído
 
 </td>
 
@@ -83,7 +104,8 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 `PHP` `MySQL`
 
-🟡 Em construção
+<span style="color:#F59E0B;">●</span> Em desenvolvimento
+
 
 </td>
 </tr>
@@ -97,17 +119,17 @@ Atualmente estou desenvolvendo novos projetos para colocar em prática meus conh
 
 `PHP` `JavaScript` `MySQL`
 
-🟡 Em construção
+<span style="color:#F59E0B;">●</span> Em desenvolvimento
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📌 Próximo projeto
+###  Próximo projeto
 
 Novos projetos serão adicionados conforme forem desenvolvidos.
 
-🔵 Em breve
+<span style="color:#2563EB;">●</span> Em breve
 
 </td>
 </tr>
@@ -117,7 +139,12 @@ Novos projetos serão adicionados conforme forem desenvolvidos.
 
 ---
 
-## 📚 Atualmente estudando
+<h2>
+  <img src="./icons/book.svg"
+       width="20"
+       style="vertical-align: -3px;">
+  Atualmente estudando
+</h2>
 
 <div align="center">
 
@@ -147,7 +174,12 @@ Novos projetos serão adicionados conforme forem desenvolvidos.
 
 ---
 
-## 📈 Minha evolução
+## <h2>
+  <img src="./icons/chart.svg"
+       width="20"
+       style="vertical-align: -3px;">
+  Minha evolução
+</h2>
 
 <div align="center">
 
