@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64"
+     fill="none">
+
+  <!-- Tela -->
+  <rect
+    x="8"
+    y="7"
+    width="48"
+    height="36"
+    rx="4"
+    stroke="#2563EB"
+    stroke-width="4"
+  />
+
+  <path
+    d="M27 18L19 25L27 32"
+    stroke="#2563EB"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M37 18L45 25L37 32"
+    stroke="#2563EB"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M24 53H40"
+    stroke="#2563EB"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+
+  <path
+    d="M32 43V53"
+    stroke="#2563EB"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+
+</svg>
