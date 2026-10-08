@@ -22,7 +22,10 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+<h2>
+  <img src="./icons/user.svg" width="20" style="vertical-align: -3px;">
+  Sobre mim
+</h2>
 
 Sou estudante de **Ciência da Computação** e desenvolvedor de sistemas em formação.
 
