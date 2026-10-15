@@ -49,7 +49,7 @@ Meu objetivo é evoluir como desenvolvedor através da criação de projetos, re
   Linguagens
 </h3>
 
-<img src="https://skillicons.dev/icons?i=php,python,c,html,css,js">
+<img src="https://skillicons.dev/icons?i=php,js,python,c,html,css">
 
 <br><br>
 
